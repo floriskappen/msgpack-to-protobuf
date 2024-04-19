@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message Data {
+    repeated bytes data = 1;
+}
